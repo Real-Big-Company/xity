@@ -1,6 +1,6 @@
 ---
 _schema: default
-date: 2024-01-01T00:00:00Z
+date: 2024-02-11T11:11:00Z
 title: XIty Trial Shows 11:11 Temporal Attunement Boosts Intuition
 seo:
   page_description:

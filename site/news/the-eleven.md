@@ -1,6 +1,6 @@
 ---
 _schema: default
-date: 2024-01-01T00:00:00Z
+date: 2024-05-08T11:11:00Z
 title: Numerical Meditational Practice "The Eleven" Gains Popularity
 seo:
   page_description:
