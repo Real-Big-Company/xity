@@ -17,6 +17,7 @@ featuredImg:
   image: /images/news/resonance.png
   image_alt: XIty Trial Shows 11:11 Temporal Attunement Boosts Intuition
 draft: false
+syndicate: true
 ---
 In a pilot study, researchers at RealBig's XIty Incorporated found that participants instructed to consciously attune their thoughts during the 11:11am/pm temporal window exhibited starkly elevated precognitive awareness and unconscious predictive abilities.
 

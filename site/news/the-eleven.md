@@ -17,6 +17,7 @@ featuredImg:
   image: /images/news/frequency.png
   image_alt: Numerical Meditational Practice "The Eleven" Gains Popularity
 draft: false
+syndicate: true
 ---
 A new form of meditation developed by RealBig's XIty Incorporated is catching on globally. Known as "The Eleven," the practice uses the powerful numerological and symbolic associations of the number 11 to help practitioners achieve higher states of consciousness and awareness.
 
