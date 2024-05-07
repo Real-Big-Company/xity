@@ -2,6 +2,7 @@
 _schema: default
 date: 2024-01-01T00:00:00Z
 title: RealBig Partners With Self-Help Guru for LifePath11™ Program
+post_permalink: /news/{{title | slugify }}
 seo:
   page_description:
   canonical_url:
@@ -9,7 +10,10 @@ seo:
   author_twitter_handle:
   open_graph_type: article
   no_index: false
-author: TODO
+layout: layouts/news-single.liquid
+tags:
+  - blog
+author: David Large
 thumbImg:
   image: /images/news/symbolism.png
   image_alt: RealBig Partners With Self-Help Guru for LifePath11™ Program
@@ -18,7 +22,6 @@ featuredImg:
   image_alt: RealBig Partners With Self-Help Guru for LifePath11™ Program
 draft: false
 ---
-
 In collaboration with bestselling author and motivational speaker Rhoman Edele, RealBig's XIty Incorporated has launched an immersive self-actualization program dubbed LifePath11™.
 
 The 11-week experiential retreat pairs Edele's principles of awakened living with the numerological technologies XIty has developed around spiritually optimizing one's relationship with the "Master Number" 11.
